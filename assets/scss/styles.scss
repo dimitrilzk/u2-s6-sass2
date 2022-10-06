@@ -2,6 +2,7 @@
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
+@import "./titles";
 // .navbar {
     //     background-color: $primary!important;
     // }
@@ -10,25 +11,3 @@
     background-color: $secondary!important;
 }
 
-nav {
-    a{
-        color: $warning!important;
-        font-style: italic;
-    }
-}
-
-h1{
-    color: $primary;
-}
-h3{
-    color: $success;
-}
-p{
-    color: $dark;
-}
-span {
-    background-color: $warning;
-    text-transform: uppercase;
-    text-decoration: underline;
-    color: $secondary;
-}

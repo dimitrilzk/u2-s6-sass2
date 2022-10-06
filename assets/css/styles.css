@@ -10771,10 +10771,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.bg-light {
-  background-color: rgb(167, 26, 26) !important;
-}
-
 nav a {
   color: yellow !important;
   font-style: italic;
@@ -10797,6 +10793,10 @@ span {
   text-transform: uppercase;
   text-decoration: underline;
   color: rgb(167, 26, 26);
+}
+
+.bg-light {
+  background-color: rgb(167, 26, 26) !important;
 }
 
 /*# sourceMappingURL=styles.css.map */
