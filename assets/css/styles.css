@@ -10795,8 +10795,13 @@ span {
   color: rgb(167, 26, 26);
 }
 
-.bg-light {
+nav.bg-light {
   background-color: rgb(167, 26, 26) !important;
+}
+
+button {
+  border: 3px solid black !important;
+  border-radius: 20px !important;
 }
 
 /*# sourceMappingURL=styles.css.map */
